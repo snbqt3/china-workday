@@ -1,15 +1,7 @@
 {
-  "name": "china-workday-api",
+  "name": "workday-api",
   "version": "1.0.0",
-  "description": "Check if today is a Chinese legal workday (including holiday adjustments)",
-  "main": "index.js",
-  "scripts": {
-    "dev": "vercel dev"
-  },
   "dependencies": {
     "node-fetch": "^3.3.2"
-  },
-  "devDependencies": {
-    "vercel": "^34.0.0"
   }
 }
